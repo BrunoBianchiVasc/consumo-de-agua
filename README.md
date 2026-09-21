@@ -48,13 +48,13 @@ Em alguns sistemas o comando é `python3` em vez de `python`.
 
 ```bash
 git clone https://github.com/BrunoBianchiVasc
-cd Consumo-de-agua
+cd consumo-de-agua
 ```
 
 **3. Rode o programa:**
 
 ```bash
-python classificador_consumo.py
+python app.py
 ```
 
 ## 🖥️ Exemplo de uso
